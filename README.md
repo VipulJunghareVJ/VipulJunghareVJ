@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VipulJunghareVJ
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Data Structures
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Front-end Web Development.
+- 🌱 I’m currently learning Frameworks and Libraries.
 - 📫 How to reach me vipuljunghare05@gmail.com
 
 <!---
